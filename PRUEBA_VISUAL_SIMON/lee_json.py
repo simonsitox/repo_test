@@ -1,4 +1,4 @@
-mi_json = open("datos.json","r" )
+mi_json = open("datos.json","r")
 
 print(mi_json)
 
